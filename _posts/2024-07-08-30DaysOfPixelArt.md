@@ -3,12 +3,14 @@ title: 30 Days of Learning Pixel Art
 date: 2024-07-08 08:02:00 +0600
 categories: [Art, Pixel Art]
 tags: [cara, 30days, art, gameart, pixelart, aseprite]
+image:
+  path: assets/img/PixelArtRock.png
 ---
 As someone who wants to develop and eventually publish their own games, I always run into the same roadblock: 
 
 **I suck at art**
 
-I won't dive into what defines art as "good" or not because that'd be an entirely different discussion, but I mean to say *the image I see in my mind nevers gets translated well*.
+I won't dive into what defines art as "good" or not because that'd be an entirely different discussion, but I mean to say *the images I see in my mind never get translated well*.
 
 So, I decided to spend a month learning pixel art.
 
