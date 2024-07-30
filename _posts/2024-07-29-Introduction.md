@@ -25,6 +25,4 @@ and I still have no idea what I'm doing.
 
 I can't promise that I'll frequently create posts here, but if you decided to check out any of my content I greatly appreciate it :) To officially relaunch this website, I've added a few posts for older projects. Some of them are projects I've talked about on other platforms, but others are completely new. 
 
-Thank you for reading
-
 

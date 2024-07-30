@@ -14,12 +14,13 @@ timezone: America/Boise
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Shifty the Dev
+title: Tray Simpson
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: >- # used as the site description in the <meta> tags
+  Software Engineer | Game Dev | Guy who likes to make things
 
 description: >- # used by seo meta and the atom feed
-  The personal blog site of Tray Simpson, a software developer and tech enthusiast.
+  The personal blog site of Tray Simpson, a software developer.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
