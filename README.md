@@ -16,7 +16,7 @@ Run locally
 
 ### To Do
 
-- [ ] Add favicon
+- [X] Add favicon
 - [ ] Add Google analytics
 - [ ] Add comment system (check how moderation works)
 - [ ] Finish Worgle article

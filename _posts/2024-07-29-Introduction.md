@@ -5,7 +5,7 @@ categories: [Web Dev, Hosting]
 tags: [jekyll, github, ruby, webdev, html]     # TAG names should always be lowercase
 
 image:
-  path: assets/img/Shifty.png
+  path: assets/img/Default.png
   alt: Profile picture of Tray Simpson
 ---
 
