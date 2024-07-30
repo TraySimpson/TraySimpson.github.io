@@ -2,7 +2,9 @@
 
 ### To Do
 
+- [ ] Add favicon
 - [ ] Add Google analytics
 - [ ] Finish Worgle article
 - [ ] Finish Pixel art article
 - [ ] Add Game Dev report article
+- [ ] Add images to posts

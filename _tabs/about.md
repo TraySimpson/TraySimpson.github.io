@@ -25,5 +25,5 @@ After high school I went to Boise State University and got a Bachelor's in Compu
 #### How long have you been programming?
 The first coding experience I can remember was in 8th grade learning Scratch and how to program as Raspberry Pi with C++. In high school I took another "Intro to Programming" class that covered basic concepts in [Processing](https://processing.org/) and even web development in HTML, CSS, and JS. 
 
-In 2016 I graduated high school, then in 2020 I graduated from college (just in time for Covid to cancel my classes). I landed an intership with a local software company during my last semester, got a Software Engineer offer from them when I graduated, and have been working them ever since.
+In 2016 I graduated high school, then in 2020 I graduated from college (just in time for Covid to cancel my classes). I landed an intership with a local software company during my last semester, got a Software Engineer offer from them when I graduated, and have been working there ever since.
 
