@@ -33,9 +33,9 @@ The biggest issue I had with my time in Godot came down to it's scripting langua
 GDScript on the surface is great. It's a scripting-style language that feels familiar to Python, with a built-in code editor that has some great features. You can Ctrl + Click nearly anything to jump to documentation for methods/properties. It's quick to write in. It's built right into the engine so no need to juggle different windows.
 
 The issues I encountered were mostly from trying to use a scripting language for something (in my opinion) is too large for it. For example:
-- **Dynamic typing** - static typing is not only faster, but helps prevent so many bugs during runtime. I will always take more verbose variable declarations over strange corner case runtime bugs. GDScript technically supports this, but it's not nearly as mature as something like C#
+- **Dynamic typing** - static typing is not only faster, but helps prevent so many bugs during runtime. I will always take more verbose variable declarations over strange corner case runtime bugs. GDScript technically supports static typing, but it's not widely supported (for example, arrays can't be typed)
 - **Duck typing** - similar to above, duck typing is needlessly unstable compared to static type-enforced method calls. Which leads me to:
-- **No Interfaces** - Given how object-oriented the rest of the engine is, it's frustrating to not have the ability to assign and enforce interfaces to objects.
+- **No Interfaces** - Given how object-oriented the rest of the engine is, it's frustrating to not have the ability to assign and enforce interfaces to objects. Checking if an object has a method defined feels incredibly clunky vs defining an interface and enforcing that as the type
 
 When I'm learning new things, I try to leave any opinions I have at the door so I can embrace new ways of doing things. However, when the issues I run into don't exist in other technologies I've used, it can be frustrating to have to worry about such avoidable problems.
 

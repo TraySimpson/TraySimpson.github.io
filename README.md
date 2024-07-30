@@ -14,12 +14,18 @@ Clean locally
 Run locally
 `bundle exec jekyll serve`
 
+View theme file location
+`bundle info --path jekyll-theme-chirpy`
+
 ### To Do
 
 - [X] Add favicon
-- [ ] Add Google analytics
+- [X] Add Google analytics
 - [ ] Add comment system (check how moderation works)
 - [ ] Finish Worgle article
 - [ ] Finish Pixel art article
 - [ ] Add Game Dev report article
 - [ ] Add images to posts
+- Godot
+- Wordle
+- Auto attach thumbnail?
