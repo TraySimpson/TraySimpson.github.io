@@ -19,8 +19,6 @@ View theme file location
 
 ### To Do
 
-- [X] Add favicon
-- [X] Add Google analytics
 - [ ] Add comment system (check how moderation works)
 - [ ] Finish Worgle article
 - [ ] Finish Pixel art article

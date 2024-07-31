@@ -6,7 +6,7 @@ tags: [jekyll, github, ruby, webdev, html]     # TAG names should always be lowe
 
 image:
   path: assets/img/Default.png
-  alt: Profile picture of Tray Simpson
+  alt: Profile picture
 ---
 
 Technically, it's been 6 years since I first launched this website. 

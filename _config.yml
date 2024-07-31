@@ -14,17 +14,17 @@ timezone: America/Boise
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Tray Simpson
+title: Shifty the Dev
 
 tagline: >- # used as the site description in the <meta> tags
   Just a guy who likes to make things
 
 description: >- # used by seo meta and the atom feed
-  The personal blog site of Tray Simpson, a software developer.
+  The personal blog site of Shifty the Dev, a software developer.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://traysimpson.github.io"
+url: "https://blog.shiftythedev.com"
 
 github:
   username: TraySimpson # change to your github username
@@ -33,7 +33,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Tray Simpson
-  email: tdsimpson123@gmail.com # change to your email address
+  email: shiftythedevbusiness@gmail.com
   links:
     - https://github.com/TraySimpson # change to your github homepage
 
