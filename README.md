@@ -18,7 +18,6 @@ View theme file location
 `bundle info --path jekyll-theme-chirpy`
 
 ### To Do
-
 - [ ] Finish Worgle article
 - [ ] Add Game Dev report article
 - [ ] Add images to posts
