@@ -24,7 +24,7 @@ Let's get started!
 To get started, you'll need to [create a GitHub account](https://github.com/join) if you don't have one already. 
 
 #### Choose a Jekyll Theme
-[Jekyll]() is a static website framework written in Ruby that GitHub pages will use for serving your website. With Jekyll, you have the option of making it completely from scratching (writing your own HTML, CSS, and JS) or starting with a [template](https://jekyllrb.com/docs/themes). 
+[Jekyll](https://jekyllrb.com) is a static website framework written in Ruby that GitHub pages will use for serving your website. With Jekyll, you have the option of making it completely from scratching (writing your own HTML, CSS, and JS) or starting with a [template](https://jekyllrb.com/docs/themes). 
 
 I would highly recommend choosing a template first, as this allows you to focus on the content of your site. You can always make changes to the template if needed.
 
