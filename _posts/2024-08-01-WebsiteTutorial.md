@@ -57,7 +57,7 @@ Regardless of your theme, you will always need an `index.html` file in your proj
 #### Create Your First Post
 By default, posts are created in the `_posts` directory in the root of your project, and are named in the format `YYYY-MM-DD-Title.md`. You may also use the `.html` extension, but `.md` will be a lot easier to work with.
 
-Additional details are described in [the Jekyll documentation]((https://jekyllrb.com/docs/step-by-step/01-setup))
+Additional details are described in [the Jekyll documentation](https://jekyllrb.com/docs/step-by-step/01-setup)
 
 #### How To Update Your Site
 Once you have your site looking how you want, simply push your changes up to GitHub. After a few minutes, the GitHub Pages pipeline should run and deploy your site at `<your-username>.github.io`
