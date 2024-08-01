@@ -3,6 +3,8 @@ title: Learning React by Copying Wordle
 date: 2024-07-05 16:29:00 +0600
 categories: [Web Dev, Frameworks]
 tags: [wordle, react, javascript, typescript, html, css]
+image:
+  path: assets/img/Worgle.png
 ---
 I'll be honest, I make *a lot* of little projects that never go anywhere. However, I think it's important to appreciate these projects. Sometimes you learn something from them. Sometimes you can reuse them for a future project. And sometimes you just enjoy the result, even if you don't share it with anyone.
 
@@ -65,7 +67,7 @@ Ultimately I ended using the `useEffect` hook to attach a listener to the the ro
 ### Animation
 By far the coolest thing I learned from this project was CSS animations. I needed the letter tiles to sequentially "flip" to their new color from left to right when the user entered an entire word:
 
-TODO gif animation
+![Flip-animation](/assets/img/WorgleFlipAnim.gif)
 
 I thought this might be a huge pain, but it was actually pretty simple:
 ```css
