@@ -43,10 +43,41 @@ My list looked something like this:
 Each day I would create a new pixel art piece and post it to [Cara](https://cara.app/shiftythedev), a relatively new social platform specifically for human art. The goal here isn't to grow a following, but instead to hopefully get some feedback and learn from other people.
 
 ### Results
-*To view*
+*This will only be a few highlighted pieces. To view all the pixel art I made, visit my [Cara profile](https://cara.app/shiftythedev)*
+
 #### Week 1
 ![Pixel-Art-1](/assets/img/pixelart/001-SimpleFigure.png)
 _Day 1: A sunset landscape_
 
-![Pixel-Art-1](/assets/img/pixelart/002-BadTrees.png)
+![Pixel-Art-2](/assets/img/pixelart/002-BadTrees.png)
 _Day 2: Sun rays casting through some trees_
+
+![Pixel-Art-3](/assets/img/pixelart/005-Rock.png)
+_Day 5: A rock_
+
+#### Week 2
+![Pixel-Art-4](/assets/img/pixelart/009-PotionPurple.png)
+_Day 1: A purple potion_
+
+![Pixel-Art-5](/assets/img/pixelart/011-Attempt4.png)
+_Day 2: "Sacred Lake" study_
+
+![Pixel-Art-6](/assets/img/pixelart/13-Grass.png)
+_Day 5: A grass tile_
+
+#### Week 3
+![Pixel-Art-7](/assets/img/pixelart/017-BallAnimation.gif)
+_Day 1: Ball animation_
+
+![Pixel-Art-8](/assets/img/pixelart/020-MountainLake.png)
+_Day 2: Mountain lake scene_
+
+#### Week 4
+![Pixel-Art-9](/assets/img/pixelart/025-SwordMountain.png)
+_Day 1: Sword in the Mountain_
+
+![Pixel-Art-10](/assets/img/pixelart/026-Ocean.png)
+_Day 2: Tidepool_
+
+![Pixel-Art-11](/assets/img/pixelart/PurpleFireball.gif)
+_Day 2: Animated Fireball_
