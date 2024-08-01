@@ -20,7 +20,6 @@ View theme file location
 ### To Do
 
 - [ ] Finish Worgle article
-- [ ] Finish Pixel art article
 - [ ] Add Game Dev report article
 - [ ] Add images to posts
 - Godot
