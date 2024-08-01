@@ -3,6 +3,8 @@ title: Learning Godot
 date: 2024-07-21 19:32:00 +0600
 categories: [Game Dev]
 tags: [godot, gdscript, game-development, engine]
+image:
+  path: assets/img/WizardSurvivorsPreview.png
 ---
 
 ### Background
