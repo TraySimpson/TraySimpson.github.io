@@ -43,3 +43,10 @@ My list looked something like this:
 Each day I would create a new pixel art piece and post it to [Cara](https://cara.app/shiftythedev), a relatively new social platform specifically for human art. The goal here isn't to grow a following, but instead to hopefully get some feedback and learn from other people.
 
 ### Results
+*To view*
+#### Week 1
+![Pixel-Art-1](/assets/img/pixelart/001-SimpleFigure.png)
+_Day 1: A sunset landscape_
+
+![Pixel-Art-1](/assets/img/pixelart/002-BadTrees.png)
+_Day 2: Sun rays casting through some trees_

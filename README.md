@@ -19,7 +19,6 @@ View theme file location
 
 ### To Do
 
-- [ ] Add comment system (check how moderation works)
 - [ ] Finish Worgle article
 - [ ] Finish Pixel art article
 - [ ] Add Game Dev report article
