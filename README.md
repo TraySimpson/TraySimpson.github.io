@@ -3,6 +3,10 @@
 ### Quick Reference
 - Preview images should be `1200 x 630`
 
+### Prompts
+> Example prompt text
+{: .prompt-info }
+tip, info, warning, and danger
 
 ### Commands
 Install dependencies
