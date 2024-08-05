@@ -4,7 +4,7 @@ date: 2024-08-04 17:55:00 +0600
 categories: [Game Dev, Godot]
 tags: [godot, navigation, tilemap, pixelart, navmesh, npc]
 image:
-    path: assets\img\GodotTilemapNavmesh.png
+    path: assets/img/GodotTilemapNavmesh.png
 ---
 
 Here's a super common problem in Godot: Let's say you create a level with a tilemap and want characters (like the player, enemies, or NPCs) to be able to navigate the map. 
