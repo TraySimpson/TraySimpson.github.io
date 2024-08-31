@@ -12,9 +12,9 @@
   icon: "fa-solid fa-paintbrush"
   url:  'https://cara.app/shiftythedev'
 
-- type: linkedin
-  icon: 'fab fa-linkedin'
-  url:  'https://www.linkedin.com/in/traber-simpson-17114a161/'
+- type: itch.io
+  icon: 'fa-brands fa-itch-io'
+  url:  'https://shiftythedev.itch.io/'
 
 - type: email
   icon: "fas fa-envelope"
