@@ -1,7 +1,9 @@
-[Post Writing Docs](https://chirpy.cotes.page/posts/write-a-new-post/)
+This is the source code for my [blog](https://blog.shiftythedev.com/) powered by GitHub pages. 
+It uses the [Chirpy Jekyll theme](https://chirpy.cotes.page/).
 
-### Quick Reference
+## Quick Reference
 - Preview images should be `1200 x 630`
+- [Post writing docs](https://chirpy.cotes.page/posts/write-a-new-post/)
 
 ### Prompts
 > Example prompt text
@@ -20,11 +22,3 @@ Run locally
 
 View theme file location
 `bundle info --path jekyll-theme-chirpy`
-
-### To Do
-- [ ] Finish Worgle article
-- [ ] Add Game Dev report article
-- [ ] Add images to posts
-- Godot
-- Wordle
-- Auto attach thumbnail?
