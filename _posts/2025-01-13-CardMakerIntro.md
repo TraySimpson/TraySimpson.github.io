@@ -23,7 +23,7 @@ It was slightly annoying having to lookup details in a printed table as we playe
 Next I tried taking 3x5 index cards and handmaking my playing cards. I at least had the bright idea of using sticky notes for things that might change (like different unit's moves or abilities), but even that took about 20 minutes to make 6 poor looking cards :)
 
 ### The Solution: Card Maker
-Knowing that I could end up with potentially hundreds of unique cards, I spent some time looking for a way to get the best of both worlds: a spreadsheet-driven, printable, set of playing cards.
+Knowing that I could end up with potentially hundreds of unique cards, I spent some time looking for a way to get the best of both worlds: a spreadsheet-driven, printable set of playing cards.
 
 After some searching, I found this nearly ten year old project [Card Maker](https://github.com/nhmkdev/cardmaker). It would read in whatever data you provided as a CSV and generate card images using custom templates you could define. It was actually perfect.
 
@@ -39,7 +39,7 @@ I won't make this a detailed Card Maker tutorial (as the documentation, example 
 Wherever you want dynamic data, you'd use it's special interpreted language (It also had an option for Javascript, but I didn't explore that) For example, if I had a CSV column named "card title", I could put the string `@[card_title]` in the element, and this would be generated dynamically from the contents of my CSV. Neat!
 
 ### The Printing Problem
-The only issue I ran into (other than needing colored ink to print in black and white... thanks HP) was that the PDF export didn't work well for me. The first time I tried it, I just got a cryptic error message. When I tried just before writing this, I successfully got a PDF, but the sizes were incosistent, and it seemed to have a lot of duplicates.
+The only issue I ran into (other than needing colored ink to print in black and white... thanks HP) was that the PDF export didn't work well for me. The first time I tried it, I just got a cryptic error message. When I tried just before writing this, I successfully got a PDF, but the sizes were inconsistent, and it seemed to have a lot of duplicates.
 
 Instead, I had to use the image export, which produced a individual image for every single card. I did not want to individual print all of those, so I decided to generate and write a Python script that would pack them for me.
 
