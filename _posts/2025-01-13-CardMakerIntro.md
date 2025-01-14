@@ -7,8 +7,6 @@ image:
     path: assets/img/CSVCardMaker.png
 ---
 
-TODO COVER IMAGE
-
 Lately, I've been playing around with game prototyping by using physical game pieces, mainly from other board games.
 
 Since I've never gotten remotely close to finishing any of my game dev projects (outside of a [game jam I did last year]({% post_url 2024-08-30-GMTKGameJam2024 %})), this strategy of prototyping has been a breath of fresh air. There's no programming. There's no rules set in stone. And most of all, it's just fun to get instant feedback on game ideas.
