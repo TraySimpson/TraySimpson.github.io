@@ -41,9 +41,9 @@ Wherever you want dynamic data, you'd use it's special interpreted language (It 
 ### The Printing Problem
 The only issue I ran into (other than needing colored ink to print in black and white... thanks HP) was that the PDF export didn't work well for me. The first time I tried it, I just got a cryptic error message. When I tried just before writing this, I successfully got a PDF, but the sizes were inconsistent, and it seemed to have a lot of duplicates.
 
-Instead, I had to use the image export, which produced a individual image for every single card. I did not want to individual print all of those, so I decided to generate and write a Python script that would pack them for me.
+Instead, I had to use the image export, which produced an individual image for every single card. I did not want to individually print all of those, so I decided to generate and write a Python script that would pack them for me.
 
-The script itself is pretty simple, but it seemed helpful enough to document and upload [here](https://github.com/TraySimpson/image-packer). I spent some extra time getting it configurable and documented, but this allowed me to easily print all my cards and specify how many of each I wanted printed.
+The script itself is pretty simple, but it seemed helpful enough to document and upload [here](https://github.com/TraySimpson/image-packer). I spent some extra time making it configurable and documented, but this allowed me to easily print all my cards and specify how many of each I wanted printed.
 
 #### Conclusion
 I would highly recommend trying to create any game ideas you have first as board games. Obviously there are a lot of genres and ideas where that isn't practical, but it's been a lot of fun play testing something so fast.
