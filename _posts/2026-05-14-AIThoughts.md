@@ -4,7 +4,7 @@ date: 2026-05-14 17:47:00 +0600
 categories: [Thoughts]
 tags: [ai, art, game-development, general]
 image:
-    path: assets\img\AI-Thumbnail.png
+    path: assets/img/AI-Thumbnail.png
 ---
 
 It's been over a year since I've posted anything here, and I've been thinking a lot about AI. 
