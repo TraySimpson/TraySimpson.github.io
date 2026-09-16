@@ -1,0 +1,21 @@
+#  The contact options.
+# icons powered by <https://fontawesome.com/>
+
+- type: github
+  icon: "fab fa-github"
+
+- type: youtube
+  icon: "fab fa-youtube"
+  url:  'https://www.youtube.com/@ShiftyTheDev'
+
+- type: cara
+  icon: "fa-solid fa-paintbrush"
+  url:  'https://cara.app/shiftythedev'
+
+- type: itch.io
+  icon: 'fa-brands fa-itch-io'
+  url:  'https://shiftythedev.itch.io/'
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
