@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+
 Hey! My name is NAME REDACTED (sorry I do like some privacy :), though you may have seen me on other platforms as "Shifty the Dev".
 
 I currently work as a Software Engineer, but love learning about new things. In fact, the whole 
